@@ -128,4 +128,6 @@ end
 puts loves_to_play && is_puppy
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: My final line of code evaluated to 'true' because I set a conditional if statement which resulted in being 'true'.
+ # Using the logical operator '&&' I compared the first value toanother 'true' statement.
+ # this satisfied the condition of both values being 'true' for the logical operator '&&' to deem the statement as a whole to be 'true'.
